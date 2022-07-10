@@ -1,0 +1,3 @@
+/Users/samanthariver/CLionProjects/PAssign2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/samanthariver/CLionProjects/PAssign2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/samanthariver/CLionProjects/PAssign2/cmake-build-debug/CMakeFiles/PAssign2.dir
